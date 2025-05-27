@@ -1,4 +1,3 @@
-package Program3;
 
 class RectanglePerimeter{
     double length,breadth;
